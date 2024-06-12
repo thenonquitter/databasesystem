@@ -3,4 +3,5 @@
 int main (void)
 {
     int id;
+    int test;
 }
